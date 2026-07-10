@@ -1,0 +1,11 @@
+{
+  "name": "ride-and-go-komorska",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "assets": "node scripts/generate-assets.mjs",
+    "check": "node scripts/check-static.mjs",
+    "dev": "node scripts/serve.mjs"
+  }
+}

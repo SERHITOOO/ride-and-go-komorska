@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-label="Ride&amp;Go znak">
+
+  <style>
+    .sans { font-family: Inter, Arial, Helvetica, sans-serif; }
+    .black { font-family: Inter, Arial, Helvetica, sans-serif; font-weight: 950; letter-spacing: -0.01em; }
+    .tight { font-family: Inter, Arial, Helvetica, sans-serif; font-weight: 980; letter-spacing: -0.03em; }
+    .mono { font-family: "SFMono-Regular", Consolas, Menlo, monospace; font-weight: 800; letter-spacing: .03em; }
+  </style>
+  <rect width="512" height="512" rx="84" fill="#D9FF00"/>
+  <text x="256" y="355" text-anchor="middle" class="tight" font-size="340" fill="#050607">&amp;</text>
+</svg>

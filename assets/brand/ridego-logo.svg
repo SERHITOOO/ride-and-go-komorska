@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="300" viewBox="0 0 1100 300" role="img" aria-label="Ride&amp;Go logo">
+
+  <defs>
+    <pattern id="scan" width="18" height="18" patternUnits="userSpaceOnUse">
+      <path d="M0 17.5h18" stroke="#1A1D1F" stroke-width="1"/>
+    </pattern>
+    <filter id="hardShadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="10" dy="10" stdDeviation="0" flood-color="#D9FF00" flood-opacity="1"/>
+    </filter>
+  </defs>
+
+  <style>
+    .sans { font-family: Inter, Arial, Helvetica, sans-serif; }
+    .black { font-family: Inter, Arial, Helvetica, sans-serif; font-weight: 950; letter-spacing: -0.01em; }
+    .tight { font-family: Inter, Arial, Helvetica, sans-serif; font-weight: 980; letter-spacing: -0.03em; }
+    .mono { font-family: "SFMono-Regular", Consolas, Menlo, monospace; font-weight: 800; letter-spacing: .03em; }
+  </style>
+  <rect width="1100" height="300" fill="#050607"/>
+  <rect width="1100" height="300" fill="url(#scan)" opacity=".58"/>
+  
+    <g transform="translate(54 52) scale(1)">
+      <text x="0" y="105" class="tight" font-size="132" fill="#FFFFFF">Ride</text>
+      <rect x="312" y="10" width="112" height="112" rx="18" fill="#D9FF00"/>
+      <text x="368" y="103" text-anchor="middle" class="tight" font-size="116" fill="#050607">&amp;</text>
+      <text x="444" y="105" class="tight" font-size="132" fill="#FFFFFF">Go</text>
+      <text x="4" y="162" class="mono" font-size="26" fill="#A7AEA8">E-BIKE SHIFT RENTAL / KOMORSKA</text>
+    </g>
+  <rect x="828" y="78" width="202" height="72" rx="10" fill="#D9FF00"/>
+  <text x="929" y="124" text-anchor="middle" class="black" font-size="30" fill="#050607">KOMORSKA</text>
+</svg>

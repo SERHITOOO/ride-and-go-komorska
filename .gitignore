@@ -1,0 +1,5 @@
+.DS_Store
+node_modules/
+assets/qa/*.png
+docs/*.md
+npm-debug.log*

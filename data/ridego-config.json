@@ -1,0 +1,29 @@
+{
+  "brand": "Ride&Go",
+  "shortBrand": "Ride&Go",
+  "tagline": "Rower na zmianę.",
+  "claim": "E-bike dla kuriera z odbiorem na Komorskiej.",
+  "location": "Komorska 55, Warszawa",
+  "area": "Grochów / Praga-Południe",
+  "phone": "+48 888 123 456",
+  "phoneHref": "+48888123456",
+  "email": "kontakt@ridego.pl",
+  "website": "ridego.pl",
+  "websiteUrl": "https://ridego.pl",
+  "whatsapp": "48888123456",
+  "contactStatus": "Robocze dane z mockupu. Przed drukiem podmień telefon, e-mail i domenę.",
+  "fleet": {
+    "brand": "Jobobike",
+    "modelStatus": "Modele do potwierdzenia po wyborze floty.",
+    "initialFleetSize": "5-10 rowerów"
+  },
+  "offer": {
+    "headlinePrice": "od 199 zł / tydz.",
+    "monthlyPrice": "od 749 zł / mies.",
+    "deposit": "kaucja zwrotna po oględzinach",
+    "note": "Stawki startowe do potwierdzenia przed wydaniem roweru."
+  },
+  "platforms": ["Glovo", "Uber Eats", "Wolt", "Bolt Food"],
+  "included": ["zapięcie", "ładowarka", "przegląd startowy", "szybka ścieżka serwisu"],
+  "notPromisedYet": ["ubezpieczenie", "dokładny model roweru", "wymiana 24/7"]
+}
