@@ -2,4 +2,7 @@
 node_modules/
 assets/qa/*.png
 docs/*.md
+output/
+tmp/
+scripts/generate-pilot-pdf.py
 npm-debug.log*
